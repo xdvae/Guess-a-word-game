@@ -15,7 +15,7 @@
 
 # Make a gameover() function that will take a boolean as parameter if user wins set the parameter to True and send it to the gameover() function to display the winnig screen, else display the loose screen if the boolean is wromg.
 
-#This text below has the text colors as variables without them the code will not work-
+# This text below has the text colors as variables without them the code will not work-
 RESET = '\033[0m'      # Reset to default
 BOLD = '\033[1m'       # Bold
 UNDERLINE = '\033[4m'  # Underline
